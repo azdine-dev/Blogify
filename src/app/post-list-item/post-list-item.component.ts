@@ -13,4 +13,12 @@ export class PostListItemComponent implements OnInit {
   ngOnInit() {
   }
 
+  loveIt(post){
+     post
+  }
+
+  heatIt(post){
+
+  }
+
 }
